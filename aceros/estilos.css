@@ -1,0 +1,56 @@
+body{
+    
+    background-color: #757575;    
+    
+}
+
+
+.a{
+    font-weight:bold;
+    font-size: 125%;
+    text-align: center;
+    justify-content: flex-end; 
+}
+
+.p{
+    color: red;
+}
+
+.h{
+    color: black;
+}
+
+hr{
+    width: 10pxs;
+    
+}
+
+.m{
+    color: blue;
+}
+
+.di{
+
+    font-weight: bold;
+    position: absolute; 
+    right: 15%;
+    top: -70px; 
+    left: 15%;
+    z-index: 10;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: rgba(10, 10, 10, 0.425); 
+}
+
+.container-bg {
+    background-color: #ffffff;
+}
+
+.ali{
+ align-content: center;
+font-size: 125%;
+justify-content: flex-end; 
+}
+
+
